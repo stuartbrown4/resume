@@ -3,6 +3,7 @@
 ## Education
 University of Strathclyde – MSc Satellite Data for Sustainable Development with Distinction – January 2023 to December 2023
 
+
 Core Modules: Satellite Data Assimilation & Analysis, Satellite Applications for Sustainable Development Goals, Machine Learning for Satellite Data, Geographical Information Systems, Big Data Fundamentals, and Big Data Tools and Techniques. During these modules I became proficient in using Python, Google Earth Engine, Machine Learning packages, ArcGIS Pro, ArcGIS Online, QGIS and was introduced to SQL and NoSQL relational databases.  
 
 My individual project entailed creating a machine learning model capable of providing an avalanche forecast for Scotland. This was achieved by compiling data of avalanches recorded in Scotland from 2009 to 2022 and matching them to the avalanche forecast of the same date. Using Google Earth Engine a series of satellite images were used to sample geological and meteorological data corresponding to each avalanche. From this a series of classification algorithms were trained to find the best performing model, which could be used to predict avalanche danger. The project involved significant data refinement, manipulation, and conversion between formats. 
