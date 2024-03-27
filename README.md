@@ -1,6 +1,6 @@
-## Stuart Brown CV
+# Stuart Brown CV
 
-# Education
+## Education
 University of Strathclyde – MSc Satellite Data for Sustainable Development with Distinction – January 2023 to December 2023
 
 Core Modules: Satellite Data Assimilation & Analysis, Satellite Applications for Sustainable Development Goals, Machine Learning for Satellite Data, Geographical Information Systems, Big Data Fundamentals, and Big Data Tools and Techniques. During these modules I became proficient in using Python, Google Earth Engine, Machine Learning packages, ArcGIS Pro, ArcGIS Online, QGIS and was introduced to SQL and NoSQL relational databases.  
